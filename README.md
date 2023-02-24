@@ -17,4 +17,7 @@
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=romanwashere&theme=onedark" />
+  
+ <h1> 🎧 I am listening </h1>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rirsi6rbffpdojujds57ru654y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </div>
