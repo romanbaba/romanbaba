@@ -9,7 +9,7 @@
 - Did you like? then you can [add](https://discord.com/api/oauth2/authorize?client_id=996343874509353122&permissions=8&scope=bot%20applications.commands) ^^
 
 ## Raven
-- A community server with Discord bot developers.
+- A [community server](https://discord.gg/altyapilar) with Discord bot developers.
 - We also provide special support for junior developers^^
 - We host server-specific open source codes.
 
