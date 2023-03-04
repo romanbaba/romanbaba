@@ -1,23 +1,21 @@
-<div align="center">
-<h1> 👋 Hi, I’m @romanwashere </h1>
-<p> A high school student trying to gradually learn to code ❤ </p>
-  
-<h1> ❔ About </h1>
-  <p> 🏷 My name is Tolga </p>
-  <p> 🤓 I am back-end developer </p>
-  <p> 🏳 I live in Turkey </p>
-  <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+# 👋 Hello there, I'm [@romanwashere](https://github.com/romanwashere)
+- My name is Tolga, I'm in high school, I'm a back-end developer, My biggest dream is to learn a [framework](https://www.codecademy.com/resources/blog/what-is-a-framework/) 🤩
+- I usually work on Javascript, Typescript and C#.
+- If you have a problem contact me on [discord.com](https://discord.com/users/622350390871982080) 👀
 
+# My projects
+## RomanBot
+- Serving via Discord, RomanBot aims to perfect classical systems.
+- Did you like? then you can [add](https://discord.com/api/oauth2/authorize?client_id=996343874509353122&permissions=8&scope=bot%20applications.commands) ^^
 
-<h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+## Raven
+- A community server with Discord bot developers.
+- We also provide special support for junior developers^^
+- We host server-specific open source codes.
 
-<h1> 📈 My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=romanwashere&show_icons=true&theme=dark" />
+# Songs I've listened to
+- I'm currently listening to Turkish rap.
+- My favorite rappers Norm Ender, Şehinşah, Joker and Contra
+- I find the old-school more successful 😋
 
-<h1> 💎 My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=romanwashere&theme=onedark" />
-  
- <h1> 🎧 I am listening </h1>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rirsi6rbffpdojujds57ru654y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-</div>
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rirsi6rbffpdojujds57ru654y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
