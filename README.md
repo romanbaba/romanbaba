@@ -13,7 +13,7 @@
 - We also provide special support for junior developers^^
 - We host server-specific open source codes.
 
-# Songs I've listened to
+# Songs I'm listened to
 - I'm currently listening to Turkish rap.
 - My favorite rappers Norm Ender, Şehinşah, Joker and Contra
 - I find the old-school more successful 😋
