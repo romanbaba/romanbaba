@@ -16,3 +16,5 @@ I specialize in **TypeScript**, **Discord bot development**, and **web developme
 - 🧩 Challenging problems to solve with innovative solutions.
 
 💬 **Fun fact:** I enjoy experimenting with creative bot ideas and learning new programming paradigms.
+
+[discord](https://discord.com/users/341585045397438464) • [twitter](https://x.com/Ryokacchi_) • [mal](https://myanimelist.net/profile/Ryokacchi)
